@@ -6,8 +6,9 @@ Réalisé par : BOULAMAAT Amina
 Suivé par : Mr. Ayoub Charef
 Année Universitaire : 2023-2024
 
-1.Problématique et description de l’existant :
-
+### 1.Problématique et description de l’existant :
+La problématique consiste à créer une plateforme de médias sociaux permettant aux utilisateurs de se connecter,de partager des publications, de commenter, de gérer leurs paramètres, d'engager des conversations, 
+de créer des groupes, des pages et d'interagir en aimant des publications.
 
 
 
@@ -83,3 +84,9 @@ Année Universitaire : 2023-2024
 3. Les utilisateurs peuvent également voir la liste des personnes qui ont aimé une publication.
 4. Ils peuvent annuler leur "J'aime" s'ils le souhaitent.
 
+
+Dans le cadre de la conception de Facebook, nous avons défini des entités clés, chacune avec ses propres champs caractéristiques.
+Pour le profil utilisateur, nous avons des champs tels que le nom d'utilisateur, la photo de profil, la date de naissance, la situation amoureuse, la ville, et d'autres informations personnelles.
+Les publications sur la plateforme incluent du contenu, des paramètres de confidentialité, la date et l'heure de publication, ainsi que l'auteur. Les commentaires sur les publications ont leur propre contenu, une horodatage, et un lien vers la publication à laquelle ils sont associés. Les paramètres du compte de l'utilisateur englobent les préférences de confidentialité, le mot de passe, l'adresse e-mail, et les préférences de notification.
+
+Pour une conception complète, il est tout aussi important d'établir des relations entre ces entités. Par exemple, les profils d'utilisateurs sont liés aux publications et aux commentaires, permettant ainsi à un profil d'avoir plusieurs publications et commentaires associés. De même, une publication est associée à un auteur et peut contenir plusieurs commentaires. Les paramètres du compte sont liés au profil de l'utilisateur, et les conversations impliquent plusieurs participants et messages. En outre, les groupes ont des membres et des publications spécifiques au groupe, tandis que les pages sont gérées par un administrateur avec des publications associées. Enfin, le module "J'aime" est associé aux publications "aimées" par les utilisateurs.
