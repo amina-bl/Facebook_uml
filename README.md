@@ -17,7 +17,7 @@ Une étude de besoin pour une application comme Facebook peut inclure divers bes
 
 ### Les besoins fonctionnels :  
 
-	Les besoins fonctionnels d'une application sont des exigences ou des spécifications décrivant les services et les fonctionnalités spécifiques que l'application doit fournir pour répondre aux besoins de ses utilisateurs. Ces besoins fonctionnels décrivent ce que l'application doit faire du point de vue de l'utilisateur ou du système. Ils sont essentiels pour définir le comportement attendu de l'application.
+Les besoins fonctionnels d'une application sont des exigences ou des spécifications décrivant les services et les fonctionnalités spécifiques que l'application doit fournir pour répondre aux besoins de ses utilisateurs. Ces besoins fonctionnels décrivent ce que l'application doit faire du point de vue de l'utilisateur ou du système. Ils sont essentiels pour définir le comportement attendu de l'application.
 Les besoins fonctionnels d'une application complexe comme Facebook sont nombreux et variés. 
 
 
@@ -69,7 +69,7 @@ Les utilisateurs doivent pouvoir télécharger et partager des photos et des vid
 
 ### Les besoins non-fonctionnels : 
 	
- 	Les besoins non fonctionnels d'une application décrivent les caractéristiques et les contraintes qui ne sont pas liées directement aux fonctionnalités de l'application, mais qui sont essentielles pour garantir sa performance, sa sécurité, sa convivialité, sa maintenabilité et d'autres aspects importants. Ces besoins non fonctionnels sont tout aussi cruciaux que les besoins fonctionnels pour le bon fonctionnement de l'application.  
+ Les besoins non fonctionnels d'une application décrivent les caractéristiques et les contraintes qui ne sont pas liées directement aux fonctionnalités de l'application, mais qui sont essentielles pour garantir sa performance, sa sécurité, sa convivialité, sa maintenabilité et d'autres aspects importants. Ces besoins non fonctionnels sont tout aussi cruciaux que les besoins fonctionnels pour le bon fonctionnement de l'application.  
 	
  
 **Performance :**
