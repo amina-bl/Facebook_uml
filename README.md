@@ -17,69 +17,86 @@ Une étude de besoin pour une application comme Facebook peut inclure divers bes
 
 ### Les besoins fonctionnels :  
 	Les besoins fonctionnels d'une application sont des exigences ou des spécifications décrivant les services et les fonctionnalités spécifiques que l'application doit fournir pour répondre aux besoins de ses utilisateurs. Ces besoins fonctionnels décrivent ce que l'application doit faire du point de vue de l'utilisateur ou du système. Ils sont essentiels pour définir le comportement attendu de l'application.
-Les besoins fonctionnels d'une application complexe comme Facebook sont nombreux et variés. Voici quelques besoins fonctionnels pour Facebook :
+Les besoins fonctionnels d'une application complexe comme Facebook sont nombreux et variés. 
+#### Voici quelques besoins fonctionnels pour Facebook :
 **Inscription et Connexion :** 
--	Les utilisateurs doivent pouvoir créer un compte avec des informations telles que nom, prénom, adresse e-mail et mot de passe. 
--	Les utilisateurs doivent pouvoir se connecter à leur compte en utilisant leurs identifiants.  
+	Les utilisateurs doivent pouvoir créer un compte avec des informations telles que nom, prénom, adresse e-mail et mot de passe. 
+	Les utilisateurs doivent pouvoir se connecter à leur compte en utilisant leurs identifiants.  
 **Profil Utilisateur :** 
--	Les utilisateurs doivent pouvoir personnaliser leur profil en ajoutant des informations telles que la photo de profil, la couverture, la biographie, les informations de contact, etc. 
--	Les utilisateurs doivent pouvoir ajouter des amis à leur liste d`amis et gérer leur liste d'amis (accepter, refuser des demandes d'amitié). 
+	Les utilisateurs doivent pouvoir personnaliser leur profil en ajoutant des informations telles que la photo de profil, la couverture, la biographie, les informations de contact, etc. 
+	Les utilisateurs doivent pouvoir ajouter des amis à leur liste d`amis et gérer leur liste d'amis (accepter, refuser des demandes d'amitié).   
 **Publication de Contenu :** 
-Les utilisateurs doivent pouvoir créer des publications (texte, photos, vidéos) sur leur fil d'actualité, et ajouter des descriptions, des balises, des emplacements et des émotions aux publication, et ils doivent pouvoir organiser leurs publications en albums. 
+Les utilisateurs doivent pouvoir créer des publications (texte, photos, vidéos) sur leur fil d'actualité, et ajouter des descriptions, des balises, des emplacements et des émotions aux publication, et ils doivent pouvoir organiser leurs publications en albums.  
+
 **Interaction avec les publications :** 
-Les utilisateurs peuvent commenter, aimer et répondre aux publications des autres utilisateurs, et partager des publications sur leur journal ou avec des amis. 
+Les utilisateurs peuvent commenter, aimer et répondre aux publications des autres utilisateurs, et partager des publications sur leur journal ou avec des amis.   
+
 **Messagerie :** 
 Les utilisateurs doivent pouvoir envoyer des messages privés (chat) à d'autres utilisateurs ou groupes et voir quand leurs messages ont été lus ou reçus.
 **Groupes et pages :** 
--	Les utilisateurs doivent pouvoir créer et gérer des groupes pour des intérêts spécifiques.
--	 Ils peuvent aussi créer et gérer des pages pour des entreprises, des célébrités, etc. 
+	Les utilisateurs doivent pouvoir créer et gérer des groupes pour des intérêts spécifiques.
+	 Ils peuvent aussi créer et gérer des pages pour des entreprises, des célébrités, etc.  
+  
 **Notifications :** 
-Les utilisateurs doivent recevoir des notifications sur les activités liées à leur compte, telles que les commentaires sur leurs publications, les demandes d'amitié, les messages, etc.
+Les utilisateurs doivent recevoir des notifications sur les activités liées à leur compte, telles que les commentaires sur leurs publications, les demandes d'amitié, les messages, etc.  
+
 **Événements :** 
 Les utilisateurs doivent être capable de créer, rejoindre et gérer des événements, ainsi qu'inviter d'autres personnes à participer.  
 **Recherche :** 
-Les utilisateurs doivent être en mesure de rechercher d'autres utilisateurs, groupes, pages, événements et autres éléments.
+Les utilisateurs doivent être en mesure de rechercher d'autres utilisateurs, groupes, pages, événements et autres éléments.  
+
  **Confidentialité et sécurité :** 
--	Les paramètres de confidentialité doivent être définis par les utilisateurs afin de déterminer qui peut voir leurs publications et informations de profil. 
--	Les utilisateurs doivent pouvoir signaler les publications et des utilisateurs. 
+	Les paramètres de confidentialité doivent être définis par les utilisateurs afin de déterminer qui peut voir leurs publications et informations de profil. 
+	Les utilisateurs doivent pouvoir signaler les publications et des utilisateurs.   
+ 
 **Gestion du compte :** 
--	Les utilisateurs doivent pouvoir modifier les informations de leur compte, y compris leur mot de passe et leur adresse e-mail. 
--	Les utilisateurs doivent avoir la possibilité de désactiver ou de supprimer leurs comptes. 
-Publicité et monétisation : 
-Facebook doit prendre en charge les fonctionnalités de publicité et de monétisation pour les annonceurs. 
+	Les utilisateurs doivent pouvoir modifier les informations de leur compte, y compris leur mot de passe et leur adresse e-mail. 
+	Les utilisateurs doivent avoir la possibilité de désactiver ou de supprimer leurs comptes.  
+ 
+**Publicité et monétisation :** 
+Facebook doit prendre en charge les fonctionnalités de publicité et de monétisation pour les annonceurs.  
+
 **Diffusion en direct :** 
 Les utilisateurs doivent pouvoir diffuser des vidéos en direct sur leur compte.  
 Intégration avec d'autres services : 
-Facebook doit intégrer des services tiers, comme le partage sur d'autres réseaux sociaux. 
-**Contenu multimédia :** 
-Les utilisateurs doivent pouvoir télécharger et partager des photos et des vidéos, avec une gestion des albums.
-### Les besoins non-fonctionnels :
+Facebook doit intégrer des services tiers, comme le partage sur d'autres réseaux sociaux.   
 
-	Les besoins non fonctionnels d'une application décrivent les caractéristiques et les contraintes qui ne sont pas liées directement aux fonctionnalités de l'application, mais qui sont essentielles pour garantir sa performance, sa sécurité, sa convivialité, sa maintenabilité et d'autres aspects importants. Ces besoins non fonctionnels sont tout aussi cruciaux que les besoins fonctionnels pour le bon fonctionnement de l'application.
+**Contenu multimédia :** 
+Les utilisateurs doivent pouvoir télécharger et partager des photos et des vidéos, avec une gestion des albums.  
+
+### Les besoins non-fonctionnels : 
+	Les besoins non fonctionnels d'une application décrivent les caractéristiques et les contraintes qui ne sont pas liées directement aux fonctionnalités de l'application, mais qui sont essentielles pour garantir sa performance, sa sécurité, sa convivialité, sa maintenabilité et d'autres aspects importants. Ces besoins non fonctionnels sont tout aussi cruciaux que les besoins fonctionnels pour le bon fonctionnement de l'application.  
+ 
 **Performance :**
--	Pour assurer une expérience utilisateur réactive, les temps de réponse des pages doivent être courts. 
--	Il est important d'optimiser les temps de chargement des images et des vidéos. Facebook doit pouvoir gérer un grand nombre d'utilisateurs simultanément.
+	Pour assurer une expérience utilisateur réactive, les temps de réponse des pages doivent être courts. 
+	Il est important d'optimiser les temps de chargement des images et des vidéos. Facebook doit pouvoir gérer un grand nombre d'utilisateurs simultanément.  
+ 
  **Sécurité :**
--	Les informations des utilisateurs, y compris les mots de passe, doivent être stockées de manière sécurisée et cryptée.
--	La protection contre les attaques, telles que les attaques par force brute et les attaques par injection SQL, est cruciale. 
--	La prévention des menaces de sécurité, la détection des intrusions et la gestion des vulnérabilités sont cruciales.
+	Les informations des utilisateurs, y compris les mots de passe, doivent être stockées de manière sécurisée et cryptée.
+	La protection contre les attaques, telles que les attaques par force brute et les attaques par injection SQL, est cruciale. 
+	La prévention des menaces de sécurité, la détection des intrusions et la gestion des vulnérabilités sont cruciales.  
+ 
 **Disponibilité :** 
--	L'application doit être disponible à tout moment. 
--	Les utilisateurs doivent être informés et les temps d'arrêt doivent être minimisés.
+	L'application doit être disponible à tout moment. 
+	Les utilisateurs doivent être informés et les temps d'arrêt doivent être minimisés.  
+ 
 **Évolutivité :**
- L'application doit être conçue pour être extensible et capable de s'adapter à une augmentation du nombre d'utilisateurs et de données.
+ L'application doit être conçue pour être extensible et capable de s'adapter à une augmentation du nombre d'utilisateurs et de données.  
+ 
 **Convivialité :** 
--	L'interface utilisateur doit être et facile à utiliser, et elle doit être flexible pour s'adapter à divers appareils et tailles d'écran.
--	Pour s'assurer que l'application soit facilement utilisable par tous, l'accessibilité doit être prise en compte.
+	L'interface utilisateur doit être et facile à utiliser, et elle doit être flexible pour s'adapter à divers appareils et tailles d'écran.
+	Pour s'assurer que l'application soit facilement utilisable par tous, l'accessibilité doit être prise en compte.  
+ 
 **Compatibilité :**
 L'application doit être compatible avec différents navigateurs, systèmes d'exploitation et appareils, y compris les versions plus anciennes.
-Protection de la vie privée :
-Les politiques de confidentialité doivent être claires et transparentes, conformes aux réglementations en matière de protection des données personnelles.
-Gestion des Erreurs :
- L'application doit être capable de gérer les erreurs de manière élégante, en fournissant des messages d'erreur appropriés aux utilisateurs.
+**Protection de la vie privée :** 
+Les politiques de confidentialité doivent être claires et transparentes, conformes aux réglementations en matière de protection des données personnelles.  
+
+**Gestion des Erreurs :**
+ L'application doit être capable de gérer les erreurs de manière élégante, en fournissant des messages d'erreur appropriés aux utilisateurs.  
 **Extensibilité :**
-L'application doit être conçue de manière à prendre en charge de nouvelles fonctionnalités et des extensions futures sans perturber le fonctionnement existant.
-Intégration avec d'autres services :
+L'application doit être conçue de manière à prendre en charge de nouvelles fonctionnalités et des extensions futures sans perturber le fonctionnement existant.  
+**Intégration avec d'autres services :**
  L'application doit pouvoir interagir avec des services tiers, tels que les médias sociaux ou les systèmes de paiement.
  **Support Client :**
 L'application doit fournir des mécanismes de support client, tels que des formulaires de contact ou des chats en direct.
@@ -98,46 +115,51 @@ Les pages Facebook sont créées par des entreprises, des personnalités publiqu
  Les groupes sont créés par des utilisateurs pour réunir des personnes partageant les mêmes intérêts, des communautés ou des discussions spécifiques. Les membres des groupes peuvent partager du contenu et interagir dans un contexte défini.
 
 **Annonceurs :**
- Les annonceurs sont des entreprises et des organisations qui utilisent la plateforme publicitaire de Facebook pour atteindre des publics cibles et diffuser des publicités payantes.
-Administrateurs :
- Les administrateurs de pages et de groupes gèrent et modèrent les contenus publiés sur ces pages. Ils peuvent également consulter des analyses de performances.
-Développeurs d'Applications :
- Les développeurs créent des applications tierces qui interagissent avec Facebook, telles que des jeux, des applications de médias sociaux et des outils de productivité.
-Support Client de Facebook :
- Le support client de Facebook fournit une assistance aux utilisateurs pour résoudre des problèmes liés à leur compte, à la sécurité, à la confidentialité, etc.
-Régulateurs et Législateurs :
-Les régulateurs gouvernementaux et les législateurs surveillent et réglementent les activités de Facebook pour garantir le respect des lois et des réglementations, notamment en matière de protection de la vie privée des données.
+ Les annonceurs sont des entreprises et des organisations qui utilisent la plateforme publicitaire de Facebook pour atteindre des publics cibles et diffuser des publicités payantes.  
+ 
+**Administrateurs :**
+ Les administrateurs de pages et de groupes gèrent et modèrent les contenus publiés sur ces pages. Ils peuvent également consulter des analyses de performances.  
+ 
+**Développeurs d'Applications :**
+ Les développeurs créent des applications tierces qui interagissent avec Facebook, telles que des jeux, des applications de médias sociaux et des outils de productivité.  
+ 
+**Support Client de Facebook :**
+ Le support client de Facebook fournit une assistance aux utilisateurs pour résoudre des problèmes liés à leur compte, à la sécurité, à la confidentialité, etc.  
+ 
+**Régulateurs et Législateurs :**
+Les régulateurs gouvernementaux et les législateurs surveillent et réglementent les activités de Facebook pour garantir le respect des lois et des réglementations, notamment en matière de protection de la vie privée des données.  
   **Public en Général :**
 Les utilisateurs non-inscrits ou non connectés à Facebook peuvent toujours accéder à certaines informations publiques, telles que des pages et des publications.
 
 
 
-### Cas d'Utilisation 1 : Profile
-- **Description :** Les utilisateurs peuvent créer, modifier et visualiser leur profil.
+### Cas d'Utilisation 1 : Profile  
+
+  Les utilisateurs peuvent créer, modifier et visualiser leur profil.
 
 **Scénarios d'Utilisation :**
-1. L'utilisateur s'inscrit sur la plateforme en fournissant un nom d'utilisateur, une adresse e-mail et un mot de passe.
-2. Une fois inscrit, l'utilisateur peut remplir son profil en ajoutant des informations telles que sa photo de profil, sa date de naissance, sa situation amoureuse, sa ville, etc.
-3. L'utilisateur peut modifier son profil à tout moment pour mettre à jour ses informations personnelles.
-4. Les autres utilisateurs peuvent consulter le profil d'un utilisateur pour voir ses informations publiques.
+L'utilisateur s'inscrit sur la plateforme en fournissant un nom d'utilisateur, une adresse e-mail et un mot de passe.
+Une fois inscrit, l'utilisateur peut remplir son profil en ajoutant des informations telles que sa photo de profil, sa date de naissance, sa situation amoureuse, sa ville, etc.
+L'utilisateur peut modifier son profil à tout moment pour mettre à jour ses informations personnelles.
+Les autres utilisateurs peuvent consulter le profil d'un utilisateur pour voir ses informations publiques.
 
 ### Cas d'Utilisation 2 : Publication
-- **Description :** Les utilisateurs peuvent créer et publier du contenu sur leur mur.
+ **Description :** Les utilisateurs peuvent créer et publier du contenu sur leur mur.
 
 **Scénarios d'Utilisation :**
-1. Un utilisateur peut rédiger un nouveau message ou publier une photo sur son propre mur.
-2. L'utilisateur peut ajouter du texte, des images, des vidéos, des liens, etc., à sa publication.
-3. Les publications peuvent être configurées pour être visibles par tout le monde, uniquement par les amis de l'utilisateur, ou de manière plus restreinte.
-4. Les publications peuvent être commentées et "aimées" par d'autres utilisateurs.
+ Un utilisateur peut rédiger un nouveau message ou publier une photo sur son propre mur.
+ L'utilisateur peut ajouter du texte, des images, des vidéos, des liens, etc., à sa publication.
+ Les publications peuvent être configurées pour être visibles par tout le monde, uniquement par les amis de l'utilisateur, ou de manière plus restreinte.
+ Les publications peuvent être commentées et "aimées" par d'autres utilisateurs.
 
 ### Cas d'Utilisation 3 : Commentaire
-- **Description :** Les utilisateurs peuvent commenter les publications.
+ **Description :** Les utilisateurs peuvent commenter les publications.
 
 **Scénarios d'Utilisation :**
 1. Les utilisateurs peuvent laisser des commentaires sur les publications d'autres utilisateurs.
 2. Les commentaires peuvent également contenir des médias, comme des images ou des liens.
 3. Les commentaires sont visibles par les autres utilisateurs qui consultent la publication.
-4. Les utilisateurs peuvent "aimer" un commentaire.
+4.Les utilisateurs peuvent "aimer" un commentaire.
 
 ### Cas d'Utilisation 4 : Paramètre
 - **Description :** Les utilisateurs peuvent gérer les paramètres de leur compte.
