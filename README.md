@@ -16,8 +16,11 @@ Facebook est une entreprise en constante évolution, et ses besoins peuvent chan
 Une étude de besoin pour une application comme Facebook peut inclure divers besoins fonctionnels et non fonctionnels. Facebook est un réseau social complexe avec de nombreuses fonctionnalités, donc voici quelques exemples de besoins fonctionnels et non fonctionnels potentiels :
 
 ### Les besoins fonctionnels :  
+
 	Les besoins fonctionnels d'une application sont des exigences ou des spécifications décrivant les services et les fonctionnalités spécifiques que l'application doit fournir pour répondre aux besoins de ses utilisateurs. Ces besoins fonctionnels décrivent ce que l'application doit faire du point de vue de l'utilisateur ou du système. Ils sont essentiels pour définir le comportement attendu de l'application.
 Les besoins fonctionnels d'une application complexe comme Facebook sont nombreux et variés. 
+
+
 #### Voici quelques besoins fonctionnels pour Facebook :
 **Inscription et Connexion :** 
 	Les utilisateurs doivent pouvoir créer un compte avec des informations telles que nom, prénom, adresse e-mail et mot de passe. 
@@ -65,7 +68,9 @@ Facebook doit intégrer des services tiers, comme le partage sur d'autres résea
 Les utilisateurs doivent pouvoir télécharger et partager des photos et des vidéos, avec une gestion des albums.  
 
 ### Les besoins non-fonctionnels : 
-	Les besoins non fonctionnels d'une application décrivent les caractéristiques et les contraintes qui ne sont pas liées directement aux fonctionnalités de l'application, mais qui sont essentielles pour garantir sa performance, sa sécurité, sa convivialité, sa maintenabilité et d'autres aspects importants. Ces besoins non fonctionnels sont tout aussi cruciaux que les besoins fonctionnels pour le bon fonctionnement de l'application.  
+	
+ 	Les besoins non fonctionnels d'une application décrivent les caractéristiques et les contraintes qui ne sont pas liées directement aux fonctionnalités de l'application, mais qui sont essentielles pour garantir sa performance, sa sécurité, sa convivialité, sa maintenabilité et d'autres aspects importants. Ces besoins non fonctionnels sont tout aussi cruciaux que les besoins fonctionnels pour le bon fonctionnement de l'application.  
+	
  
 **Performance :**
 	Pour assurer une expérience utilisateur réactive, les temps de réponse des pages doivent être courts. 
